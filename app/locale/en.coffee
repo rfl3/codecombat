@@ -1597,6 +1597,7 @@
     teacher_quest_more: "See all quests"
     teacher_quest_less: "See fewer quests"
     refresh_to_update: "(refresh the page to see updates)"
+    share_licenses: "Share Licenses"
 
   sharing:
     game: "Game"
